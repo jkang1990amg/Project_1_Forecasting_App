@@ -2,7 +2,7 @@ import os
 import requests
 from dotenv import load_dotenv
 import alpaca_trade_api as tradeapi
-import questionary 
+
 
 
 def api_call():
