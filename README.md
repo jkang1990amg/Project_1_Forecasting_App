@@ -32,7 +32,7 @@ In order for the simulator run, you must create a csv file that contains a list 
 
 Choose the beginning and end date of historical data you wish to pull. 
 
-[Start and End Date Selector](../Project_1_Forecasting_App/project_1_Forecasting_App/Final_App/Images/start_end_date.png)
+[Start and End Date Selector](./Project_1_Forecasting_App/project_1_Forecasting_App/Final_App/Images/start_end_date.png)
 
 Once you have choosen your start and end dates, upload the csv file to the Streamlit dashboard section that says "upload file".
 
