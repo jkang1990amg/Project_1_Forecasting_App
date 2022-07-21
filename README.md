@@ -1,6 +1,6 @@
 # Project 1 Portfolio Forecasting App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/) 
+[https://jkang-project-1-forecasting-appfinal-appforecasting-app-g93q8s.streamlitapp.com/)
 
 **Welcome to our Portfolio Simulator. This was created to be able to predict the theoretical performance
 of a portfolio of stocks using historical close price data and a Monte Carlo simluation.**
@@ -27,11 +27,10 @@ This project has been created with the following technologies:
 ## User Guide
 
 The source code is currently hosted in a Github repository at the following link: 
-https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 The Portfolio Simulator is run using a Streamlit dashboard.
 
-To run the simulator, go to the README.md file at the following link: https://github.com/SoukP1/Project-1/blob/main/README.md
+To run the simulator, go to the README.md file at the following link: https://github.com/jkang1990amg/Project_1_Forecasting_App
 
 Click on the Streamlit link within the README.md file. This will take you to the Streamlit dashboard.
 
@@ -53,7 +52,6 @@ the results of the simulator and a visual graph will display.
 ## Usage
 
 The source code is currently hosted in a Github repository at the following link: 
-https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 To use the Portfolio Simulator, clone the respository to your local machine. In your command line interface, change your directory to the portfolio analyzer enviroment.
 Activate the simulator program by typing "streamlit run XXXXXX". This will open a webpage and bring you to a Streamlit dashboard.
