@@ -87,8 +87,8 @@ if portfolio_data is not None:
         lower_net = round(MC_lower - portfolio_value, 2)
         
        
-        st.metric("Max Gain", f"${upper_net:,}", delta_color="normal")
-        st.metric("Max Loss", f"${lower_net:,}", delta_color="normal")
+        st.metric("Maximum Gain/Loss", f"${upper_net:,}", delta_color="normal")
+        st.metric("Minimum Gain/Loss", f"${lower_net:,}", delta_color="normal")
         st.write(f"With a 95% confidence interval, your starting portfolio value of {portfolio_value:,} ranges from {MC_lower:,} to {MC_upper:,} over {simulation_length} year(s).")
           
        
