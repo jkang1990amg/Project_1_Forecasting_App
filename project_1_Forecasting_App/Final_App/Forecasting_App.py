@@ -28,13 +28,15 @@ Use the following instructions to correctly format your portfolio data for the s
 
     ''')
 
+initial_price_date = st.date_input("Please enter a start date for historical data.")
+end_price_date = st.date_input("Please enter an end date for historical data.")
+    
 portfolio_data = st.file_uploader("Upload Portfolio Information Here:")
 if portfolio_data is not None: 
     member_df = pd.read_csv(portfolio_data)
     tickers = list(member_df['Ticker'].unique()) 
 
-    initial_price_date = st.date_input("Please enter a start date for historical data.")
-    end_price_date = st.date_input("Please enter an end date for historical data.")
+    
     start_date = pd.Timestamp(str(initial_price_date), tz="America/New_York").isoformat()
     end_date = pd.Timestamp(str(end_price_date), tz="America/New_York").isoformat()
     timeframe = "1Day"
