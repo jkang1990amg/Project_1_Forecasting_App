@@ -28,11 +28,11 @@ The Portfolio Simulator is run using a Streamlit dashboard. To run the simulator
 
 In order for the simulator run, you must create a csv file that contains a list of symbols of the stocks you wish to choose. You must also include a quantity of each stock chosen. The following screenshot shows an example csv file. Your csv file must match the format of the example:
 
-![CSV Example](./Project_1_Forecasting_App/Final_App/Images/csv_example.png)
+![CSV Example](../Project_1_Forecasting_App/Final_App/Images/csv_example.png)
 
 Choose the beginning and end date of historical data you wish to pull. 
 
-![Start and End Date Selector](./Project_1_Forecasting_App/project_1_Forecasting_App/Final_App/Images/start_end_date.png)
+![Start and End Date Selector](../Project_1_Forecasting_App/project_1_Forecasting_App/Final_App/Images/start_end_date.png)
 
 Once you have choosen your start and end dates, upload the csv file to the Streamlit dashboard section that says "upload file".
 
