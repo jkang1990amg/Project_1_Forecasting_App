@@ -1,6 +1,6 @@
 # Project 1 Portfolio Forecasting App
 
-[https://jkang-project-1-forecasting-appfinal-appforecasting-app-g93q8s.streamlitapp.com/) 
+[Portfolio Forecasting App](https://jkang-project-1-forecasting-appfinal-appforecasting-app-g93q8s.streamlitapp.com/) 
 
 **Welcome to our Portfolio Forecasting App. This was created to be able to predict the theoretical performance
 of a portfolio of stocks using historical close price data and a Monte Carlo simluation.**
@@ -32,7 +32,7 @@ In order for the simulator run, you must create a csv file that contains a list 
 
 Choose the beginning and end date of historical data you wish to pull. 
 
-![Start and End Date Selector](../Project_1_Forecasting_App/project_1_Forecasting_App/Final_App/Images/start_end_date.png)
+![Start and End Date Selector](../project_1_Forecasting_App/Final_App/Images/start_end_date.png)
 
 Once you have choosen your start and end dates, upload the csv file to the Streamlit dashboard section that says "upload file".
 
