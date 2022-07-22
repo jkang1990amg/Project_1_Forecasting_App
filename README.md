@@ -3,7 +3,7 @@
 [Portfolio Forecasting App](https://jkang-project-1-forecasting-appfinal-appforecasting-app-g93q8s.streamlitapp.com/) 
 
 **Welcome to our Portfolio Forecasting App. This was created to be able to predict the theoretical performance
-of a portfolio of stocks using historical close price data and a Monte Carlo simluation.**
+of a portfolio of stocks using historical close price data and a Monte Carlo simulation.**
 
 ## About
 
