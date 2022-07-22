@@ -26,9 +26,9 @@ This project has been created with the following technologies:
 The source code is currently hosted in a Github repository at the following link: 
 https://github.com/jkang1990amg/Project_1_Forecasting_App
 
-The Portfolio Simulator is run using a Streamlit dashboard. To run the simulator, click on the Streamlit link at the top of this README.md file called "Portfolio Forecasting App".
+The Portfolio Forecasting App is run using a Streamlit dashboard. To run the app, click on the Streamlit link at the top of this README.md file called "Portfolio Forecasting App".
 
-In order for the simulator run, you must create a csv file that contains a list of symbols of the stocks you wish to choose. You must also include a quantity of each stock chosen. The following screenshot shows an example csv file. Your csv file must match the format of the example:
+In order for the app run, you must create a csv file that contains a list of symbols of the stocks you wish to choose. You must also include a quantity of each stock chosen. The following screenshot shows an example csv file. **Your csv file must match the format of the example:
 
 ![CSV Example](./project_1_Forecasting_App/Final_App/Images/csv_example.png)
 
@@ -48,7 +48,7 @@ After the csv file has been uploaded, choose the length of time you wish to hold
 ![Length of Time +/-](./project_1_Forecasting_App/Final_App/Images/portfolio_length_of_time.png)
 
 
-Once all the parameters have been completed, click "start" buttonfor the simulator to execute. After the simulator finishes running, the max and min gain or loss as well as the 95% confidence interval results will display.
+Once all the parameters have been completed, click the "start" button for the app to run. After the app finishes running, the max and min gain or loss as well as the 95% confidence interval of the portfolio's total value will display.
 
 ![Results](./project_1_Forecasting_App/Final_App/Images/results.png)
 
