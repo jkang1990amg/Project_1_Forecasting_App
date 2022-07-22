@@ -7,7 +7,7 @@ of a portfolio of stocks using historical close price data and a Monte Carlo sim
 
 ## About
 
-The simulator uses a Streamlit dashboard. A user will choose the start and end date range that they would like to pull historical data. From their, the user can upload a csv file that contains the symbols of stocks they wish to pick as well as the quantity. After, the user will pick how long they wish to hold their stocks. With all the parameters set, the simulator can be started to see how their portoflio will perform based on the historical close price data from the date range chosen and length of time to holdthe stocks. The simulator will provide 
+The simulator uses a Streamlit dashboard. A user will choose the start and end date range that they would like to pull historical data. From their, the user can upload a csv file that contains the symbols of stocks they wish to pick as well as the quantity. After, the user will pick how long they wish to hold their stocks. With all the parameters set, the simulator can be started to see how their portoflio will perform based on the historical close price data from the date range chosen and length of time to hold the stocks. 
 
 ---
 
